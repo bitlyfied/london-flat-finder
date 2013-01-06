@@ -1,3 +1,3 @@
 
 // Requires Ember-Data
-// London-Flat-Finder.Application = DS.Model.extend({});
+// LondonFlatFinder.Application = DS.Model.extend({});

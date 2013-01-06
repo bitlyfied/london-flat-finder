@@ -1,4 +1,4 @@
-London-Flat-Finder.ApplicationController = Ember.ObjectController.extend({
+LondonFlatFinder.ApplicationController = Ember.ObjectController.extend({
   // Implement your controller here.
 });
 

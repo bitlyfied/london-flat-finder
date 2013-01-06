@@ -1,0 +1,19 @@
+{
+  "name": "London Flat Finder",
+  "description": "Search for available flats in London",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self'; object-src 'self'; style-src https:// 'unsafe-inline'; image-src 'self' http:// https://; connect-src 'self' http://",
+  "web_accessible_resources": ["*"],
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "permissions": [
+	 "http://*/"
+  ],
+  "icons": {
+    "128": "images/icon_128.png"
+  }
+}

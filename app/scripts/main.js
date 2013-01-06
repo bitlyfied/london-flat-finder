@@ -1,3 +1,3 @@
 
 
-var London-Flat-Finder = Ember.Application.create();
+var LondonFlatFinder = Ember.Application.create();
