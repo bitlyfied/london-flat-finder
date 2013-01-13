@@ -1,5 +1,4 @@
-// Requires Ember-Data
-// LondonFlatFinder.Store = DS.Store.extend({
-//   revision: 4,
-//   adapter: DS.RESTAdapter.create()
-// });
+LondonFlatFinder.Store = DS.Store.extend({
+    revision: 11,
+    adapter: DS.RESTAdapter.create()
+});

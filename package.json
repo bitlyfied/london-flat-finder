@@ -1,7 +1,9 @@
 {
-  "author": "",
-  "name": "",
-  "version": "0.0.0",
-  "dependencies": {},
+  "author": "bitlyfied",
+  "name": "LondonFlatFinder",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-ember-templates" : "*"
+  },
   "devDependencies": {}
 }
